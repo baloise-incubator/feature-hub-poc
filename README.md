@@ -1,7 +1,14 @@
-# repository-template-nosrc
-A template to use when starting a new project.
+# PoC for feature toggle using [feature-hub](https://www.featurehub.io/)
+
+`docker run -p 8085:8085 --user 999:999 -v $HOME/party:/db featurehub/party-server:latest`
+
+
+
+
 
 ## perform a repository wide search and replace for "repository-template-nosrc" and the "target-repo-name"
+
+
 
 e.g. by using
 
