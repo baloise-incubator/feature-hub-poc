@@ -19,6 +19,6 @@ public class HelloResource {
   @RequestMapping("/")
   public String index() {
     ClientContext ctx = ctxProvider.get();
-    return "Hello World " + ctx.feature("SUBMIT_COLOR_BUTTON").getString();
+    return "Hello World " + ctx.feature("SUBMIT_COLOR_BUTTON").getString() + ctx.feature("TEST").getNumber();
   }
 }

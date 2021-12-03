@@ -5,7 +5,11 @@
 
 # IDE settings
 **/.settings/
+**/*.iml
+/.idea
 /bin
+/sample-java-springboot/target/
 
 # OS files
 *.DS_Store
+
