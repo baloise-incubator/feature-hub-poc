@@ -1,6 +1,6 @@
-# Contributing to _repository-template-nosrc_
+# Contributing to _feature-hub-poc_
 
-**Thank you for your interest in _repository-template-nosrc_. Your contributions are highly welcome.**
+**Thank you for your interest in _feature-hub-poc_. Your contributions are highly welcome.**
 
 There are multiple ways of getting involved:
 
